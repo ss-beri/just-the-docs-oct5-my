@@ -1,5 +1,5 @@
 ---
-title: Home
+title: CONFEST 2024
 layout: home
 ---
 
